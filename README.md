@@ -12,7 +12,9 @@ It can deal with the following:
 * The length modifier: hh, h, l, ll, j, & z.
 
 ## Learned :
+
 *Parsing
+
 *variadic function
 
 **Usage** =>
