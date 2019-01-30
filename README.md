@@ -15,7 +15,7 @@ It can deal with the following:
 
 * Parsing
 
-* variadic function
+* Variadic function
 
 **Usage** =>
 
