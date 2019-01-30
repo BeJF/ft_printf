@@ -13,9 +13,9 @@ It can deal with the following:
 
 ## Learned :
 
-*Parsing
+* Parsing
 
-*variadic function
+* variadic function
 
 **Usage** =>
 
