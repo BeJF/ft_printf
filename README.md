@@ -10,3 +10,9 @@ It can deal with the following:
 * Manage the minimum field-width
 * Manage the precision
 * The length modifier: hh, h, l, ll, j, & z.
+
+## Usage :
+
+To compile, run make. This will compile libftprintf.a. To use, include ft_printf.h and use just like printf:
+
+## 
